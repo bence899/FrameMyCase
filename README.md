@@ -1,5 +1,3 @@
----
-
 # FrameMyCase
 
 **FrameMyCase** is an innovative web application that allows users to customize their phone cases by uploading their own images and designs. The app is designed for users who want to create unique and personalized phone cases, giving them the freedom to express their style and creativity.
@@ -74,5 +72,3 @@ To get a local copy up and running, follow these simple steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
